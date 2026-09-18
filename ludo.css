@@ -14,6 +14,7 @@ body{
 }
 .hi{
     border-radius: 50px;
+    cursor: pointer;
 }
 p{
     font-family:fantasy;
